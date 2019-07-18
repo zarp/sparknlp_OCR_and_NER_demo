@@ -1,4 +1,4 @@
-# This repo contains various NLP demos using Spark NLP library
+# Various NLP demos using Spark NLP library
 
 # Spark_NLP_with_custom_pipeline
 Using Spark pipeline with Spark-NLP annotators to do some simple text analysis
